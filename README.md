@@ -2,6 +2,18 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.0.
 
+## Description
+
+This is a project I'm working on to learn Angular. I'm following the Tour of Heroes tutorial from the official Angular documentation found here: `https://angular.io/tutorial`. The project is hosted on Heroku and can be found here: `https://tour-of-heroes-angular-app.herokuapp.com`.
+
+## Version
+
+This project uses node version 12.18.2 and npm version 6.14.5.
+
+## Install instructions
+
+run `npm install`.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
